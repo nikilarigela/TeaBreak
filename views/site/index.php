@@ -21,7 +21,7 @@ $this->title = 'Tea Break';
         <div>
             <h2>About us.</h2>
 
-            <p>Our aim was to develop and create a new flavour for the world.<br>
+            <p><br>
                 so we have developed a number of apps.<br>
                 Out of them the most wonderful one was "Dumb Charades" play and enjoy.<br>
                 Hope you gonna like this.</p>
