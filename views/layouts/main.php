@@ -55,7 +55,7 @@ AppAsset::register($this);
 </div>
 
 <footer class="footer">
-    <div class="container">
+    <div class="footer">
         <p class="pull-center">&copy; Tea Break<?= date('Y') ?></p>
     </div>
 </footer>

@@ -13,13 +13,13 @@ body {
 .wrap > .container {
     padding: 70px 15px 20px;
 }
-
+.error {color: #FF0000;}
 .footer {
     background-color: black;
     color: white;
     clear: both;
     text-align: center;
-    padding: 5px;
+    padding: 10px;
 }
 
 .jumbotron {

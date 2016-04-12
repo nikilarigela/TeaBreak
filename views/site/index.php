@@ -4,7 +4,8 @@
 
 $this->title = 'Tea Break';
 ?>
-<div class="site-index">
+<body background="http://localhost/TeaBreak/04.png">
+<div class="site-index" >
 
     <div class="jumbotron">
 
@@ -25,7 +26,7 @@ $this->title = 'Tea Break';
                 so we have developed a number of apps.<br>
                 Out of them the most wonderful one was "Dumb Charades" play and enjoy.<br>
                 Hope you gonna like this.</p>
-            <p><a class="btn btn-default" href="http://localhost/basic/web/index.php?r=site/about">More About Tea
+            <p><a class="btn btn-default" href="http://localhost/TeaBreak/web/index.php?r=site/about">More About Tea
                     Break &raquo;</a></p>
         </div>
     </div>
@@ -33,3 +34,4 @@ $this->title = 'Tea Break';
 </div>
 
 </div>
+</body>
