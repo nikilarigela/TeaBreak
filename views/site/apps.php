@@ -1,4 +1,4 @@
-<body background="http://localhost/TeaBreak/04.png">
+<body background="http://localhost/TeaBreak/01.jpg">
 
 <img src="https://goo.gl/cBh5VI">
 <h1>Dumb charades</h1>

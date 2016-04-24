@@ -4,14 +4,14 @@
 
 $this->title = 'Tea Break';
 ?>
-<body background="http://localhost/TeaBreak/04.png">
+<body background="http://localhost/TeaBreak/05.png">
 <div class="site-index" >
 
     <div class="jumbotron">
 
-        <h1 >Welcome to Tea Break Technologies </h1>
+        <h1 class="fonts">Welcome to Tea Break Technologies </h1>
 
-        <p class="lead">Developer Of Developers.</p>
+        <p class="fonts">Developer Of Developers.</p>
 
 
     </div>
@@ -20,9 +20,9 @@ $this->title = 'Tea Break';
 
 
         <div>
-            <h2>About us.</h2>
+            <h2 class="fonts">About us.</h2>
 
-            <p><br>
+            <p class="fonts"><br>
                 so we have developed a number of apps.<br>
                 Out of them the most wonderful one was "Dumb Charades" play and enjoy.<br>
                 Hope you gonna like this.</p>
